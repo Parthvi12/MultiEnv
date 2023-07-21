@@ -29,7 +29,7 @@
           }
         },
         "collection": {
-          "data": "Mongo_Migration"
+          "data": ""
         },
         "command": {
           "data": "FIND"
@@ -79,7 +79,7 @@
         },
         "misc": {
           "formToNativeQuery": {
-            "data": "{\n  \"find\": \"Mongo_Migration\",\n  \"limit\": 10,\n  \"batchSize\": 10\n}\n",
+            "data": "{\n  \"find\": \"\",\n  \"limit\": 10,\n  \"batchSize\": 10\n}\n",
             "status": "SUCCESS"
           }
         },
